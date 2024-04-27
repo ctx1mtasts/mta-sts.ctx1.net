@@ -6,3 +6,4 @@ mx: *.aspmx.l.google.com
 mx: aspmx.l.google.com
 mx: mail.protonmail.ch
 mx: mailsec.protonmail.ch
+
